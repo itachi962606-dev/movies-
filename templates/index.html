@@ -9,7 +9,7 @@
 <select id="genre"></select><select id="language"></select></div>
 <a class="bell" id="bell" href="/notifications" title="Notifications" aria-label="Notifications">🔔<span class="dot" id="dot" hidden></span></a></header>
 <main>
-<nav class="tabs"><a class="tab" id="tab-tamil" href="/?tab=tamil">Tamil Movies</a><a class="tab" id="tab-international" href="/?tab=international">International Movies</a><a class="tab" href="/notifications">Notifications</a><a class="tab" href="/watchlist">Watchlist</a></nav>
+<nav class="tabs"><a class="tab" id="tab-tamil" href="/?tab=tamil">Tamil Movies</a><a class="tab" id="tab-international" href="/?tab=international">International Movies</a><a class="tab" href="/notifications">Notifications</a><a class="tab" href="/watchlist" title="My Watchlist (Best List)">🔖</a></nav>
 <p id="msg" class="msg">Loading...</p><section id="grid" class="grid"></section></main>
 <footer>International data provided by TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.</footer>
 <script src="{{ url_for('static', filename='js/movies.js') }}"></script><script src="{{ url_for('static', filename='js/app.js') }}"></script>

@@ -53,19 +53,38 @@ function toggleWatchlist(movie, src) {
   return index < 0;
 }
 
-// Same card for International and Tamil movies
+// Card renderer — Tamil cards show Download only; International cards show View Details
 function card(m, src, watchlistMode = false) {
   const link = `/movie?src=${encodeURIComponent(src)}&id=${encodeURIComponent(m.id)}`;
   const saved = isInWatchlist(src, m.id);
-  const sourceLabel = m.source === 'admin' ? 'Admin upload' : src === 'tamil' ? 'TMDB' : '';
+
+  // Tamil (admin-uploaded): Download button only, no Watch/View Profile links
+  if (src === 'tamil') {
+    const dlBtn = m.downloadUrl
+      ? `<a class="btn" href="${esc(m.downloadUrl)}" target="_blank" rel="noopener noreferrer">⬇ Download</a>`
+      : `<span class="meta">No download link</span>`;
+    return `<article class="card">
+    <img loading="lazy" src="${esc(m.poster)}" alt="${esc(m.title)} poster">
+    <div class="card-body">
+      <h3>${esc(m.title)}</h3>
+      <p class="meta">${esc(m.year)}</p>
+      ${dlBtn}
+      <button class="btn alt watchlist-toggle" type="button" title="${watchlistMode || saved ? 'Remove from Watchlist' : 'Add to Watchlist'}">
+        ${watchlistMode || saved ? '🔖 Saved' : '🔖 Save'}
+      </button>
+    </div></article>`;
+  }
+
+  // International (TMDB): full View Details card
   return `<article class="card">
     <a href="${link}"><img loading="lazy" src="${esc(m.poster)}" alt="${esc(m.title)} poster"></a>
     <div class="card-body">
       <h3>${esc(m.title)}</h3>
       <p class="meta">${esc(m.year)}${m.rating > 0 ? ' · ★ ' + m.rating : ''}</p>
-      ${sourceLabel ? `<p class="meta">${sourceLabel}</p>` : ''}
       <a class="btn" href="${link}">View Details</a>
-      <button class="btn alt watchlist-toggle" type="button">${watchlistMode ? 'Remove from Watchlist' : saved ? 'Remove from Watchlist' : 'Add to Watchlist'}</button>
+      <button class="btn alt watchlist-toggle" type="button" title="${watchlistMode || saved ? 'Remove from Watchlist' : 'Add to Watchlist'}">
+        ${watchlistMode || saved ? '🔖 Saved' : '🔖 Save'}
+      </button>
     </div></article>`;
 }
 
@@ -127,10 +146,18 @@ async function initDetails() {
   if (!m) { box.innerHTML = '<p class="msg error">Movie not found.</p>'; return; }
   document.title = m.title + ' | MoviesHub';
   const actions = [];
-  if (m.watchUrl) actions.push(`<a class="btn" href="${esc(m.watchUrl)}" target="_blank" rel="noopener noreferrer">Watch / Play</a>`);
-  if (m.downloadUrl) actions.push(`<a class="btn alt" href="${esc(m.downloadUrl)}" target="_blank" rel="noopener noreferrer">Download</a>`);
-  if (!m.watchUrl && m.officialUrl) actions.push(`<a class="btn" href="${esc(m.officialUrl)}" target="_blank" rel="noopener noreferrer">Watch / Official Source</a>`);
-  actions.push(`<button class="btn alt" id="detailWatchlistToggle" type="button">${isInWatchlist(src, m.id) ? 'Remove from Watchlist' : 'Add to Watchlist'}</button>`);
+  if (src === 'tamil') {
+    // Admin-uploaded Tamil movie: Download only — no Watch, Play, or TMDB links
+    if (m.downloadUrl) {
+      actions.push(`<a class="btn" href="${esc(m.downloadUrl)}" target="_blank" rel="noopener noreferrer">⬇ Download</a>`);
+    }
+  } else {
+    // International (TMDB): full action set
+    if (m.watchUrl) actions.push(`<a class="btn" href="${esc(m.watchUrl)}" target="_blank" rel="noopener noreferrer">Watch / Play</a>`);
+    if (m.downloadUrl) actions.push(`<a class="btn alt" href="${esc(m.downloadUrl)}" target="_blank" rel="noopener noreferrer">Download</a>`);
+    if (!m.watchUrl && m.officialUrl) actions.push(`<a class="btn" href="${esc(m.officialUrl)}" target="_blank" rel="noopener noreferrer">Watch / Official Source</a>`);
+  }
+  actions.push(`<button class="btn alt" id="detailWatchlistToggle" type="button">${isInWatchlist(src, m.id) ? '🔖 Saved' : '🔖 Save'}</button>`);
   box.innerHTML = `
     <div class="hero" style="background-image:linear-gradient(to top,#0b0d12,rgba(11,13,18,.6)),url('${esc(m.backdrop)}')"></div>
     <div class="detail">
@@ -146,7 +173,7 @@ async function initDetails() {
   $('detailWatchlistToggle').addEventListener('click', event => {
     try {
       toggleWatchlist(m, src);
-      event.currentTarget.textContent = isInWatchlist(src, m.id) ? 'Remove from Watchlist' : 'Add to Watchlist';
+      event.currentTarget.textContent = isInWatchlist(src, m.id) ? '🔖 Saved' : '🔖 Save';
     } catch (error) {
       alert(error.message);
     }
