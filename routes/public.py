@@ -23,6 +23,10 @@ def movie():
 def notifications_page():
     return render_template("notifications.html")
 
+@bp.get("/watchlist")
+def watchlist_page():
+    return render_template("watchlist.html")
+
 
 # ---------- Public API ----------
 @bp.get("/api/international-movies")

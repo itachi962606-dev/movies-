@@ -9,6 +9,12 @@ from models import Admin, Notification, TamilMovie, db
 
 bp = Blueprint("admin", __name__)
 
+GENRES = (
+    "Action", "Adventure", "Animation", "Comedy", "Crime", "Documentary", "Drama",
+    "Family", "Fantasy", "History", "Horror", "Music", "Mystery", "Romance",
+    "Science Fiction", "Thriller", "War", "Western", "Other",
+)
+
 
 # ---------- Auth helpers ----------
 def admin_page(f):
@@ -62,7 +68,8 @@ def read_movie_form(existing=None):
     name = f.get("name", "").strip()
     desc = f.get("description", "").strip()
     year = f.get("release_year", "").strip()
-    category = f.get("category", "").strip() or "Tamil"
+    category = f.get("category", "").strip()
+    video = f.get("video_url", "").strip()
     download = f.get("download_url", "").strip()
     poster = f.get("poster_url", "").strip()
     if not name or len(name) > 200:
@@ -71,6 +78,14 @@ def read_movie_form(existing=None):
         return None, "Enter a valid release year."
     if len(desc) > 3000 or len(category) > 50:
         return None, "Description or category is too long."
+    if category not in GENRES and not (existing and category == existing.category):
+        return None, "Select a valid movie genre."
+    if not video and existing:
+        video = existing.video_url or ""
+    if not video and not existing:
+        return None, "Video / watch URL is required."
+    if video and not valid_url(video):
+        return None, "Video / watch URL must be a valid http(s) link."
     if not valid_url(download):
         return None, "Download URL must be a valid http(s) link."
     if not f.get("rights"):
@@ -89,7 +104,7 @@ def read_movie_form(existing=None):
     if not poster:
         return None, "Upload a poster image or enter a poster URL."
     return dict(name=name, description=desc, release_year=int(year), category=category,
-                download_url=download, poster_url=poster), None
+                video_url=video, download_url=download, poster_url=poster), None
 
 
 # ---------- Pages ----------
@@ -124,13 +139,15 @@ def movies():
 @bp.get("/admin/movies/new")
 @admin_page
 def add_movie():
-    return render_template("admin/add-movie.html", movie=None)
+    return render_template("admin/add-movie.html", movie=None, genres=GENRES)
 
 
 @bp.get("/admin/movies/<int:movie_id>/edit")
 @admin_page
 def edit_movie(movie_id):
-    return render_template("admin/add-movie.html", movie=db.get_or_404(TamilMovie, movie_id))
+    return render_template(
+        "admin/add-movie.html", movie=db.get_or_404(TamilMovie, movie_id), genres=GENRES
+    )
 
 
 @bp.get("/admin/notifications")

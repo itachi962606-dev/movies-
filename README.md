@@ -5,3 +5,5 @@ See the chat instructions. Quick start (Windows):
   flask --app app create-admin
   python app.py            -> http://127.0.0.1:5000  (admin: /admin)
 International catalogue: node --env-file=.env scripts/update-movies.js
+
+Tamil movies include TMDB results in Tamil (`ta`) and separate admin-uploaded records. Admin uploads support a genre, a video/watch URL, and a download URL. The browser Watchlist is stored locally and is specific to that browser.

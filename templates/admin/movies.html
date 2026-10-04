@@ -3,17 +3,17 @@
 {% block content %}
 <div class="row" style="justify-content:space-between;align-items:center"><h1>Tamil Movies</h1><a class="btn" href="{{ url_for('admin.add_movie') }}">+ Add Movie</a></div>
 <div class="table-wrap"><table class="tbl">
-<thead><tr><th>Poster</th><th>Movie name</th><th>Year</th><th>Created</th><th>Actions</th></tr></thead>
+<thead><tr><th>Poster</th><th>Movie name</th><th>Source</th><th>Year</th><th>Created</th><th>Actions</th></tr></thead>
 <tbody>
 {% for m in movies %}
 <tr data-row>
   <td><img src="{{ m.poster_url }}" alt=""></td>
-  <td>{{ m.name }}</td><td>{{ m.release_year }}</td><td>{{ m.created_at.strftime('%d %b %Y') }}</td>
+  <td>{{ m.name }}</td><td>Admin upload</td><td>{{ m.release_year }}</td><td>{{ m.created_at.strftime('%d %b %Y') }}</td>
   <td><div class="row">
     <a class="btn alt" href="{{ url_for('admin.edit_movie', movie_id=m.id) }}">Edit</a>
     <button class="btn danger" data-delete="/api/admin/tamil-movies/{{ m.id }}" data-name="{{ m.name }}">Delete</button>
   </div></td>
 </tr>
-{% else %}<tr><td colspan="5" class="hint">No Tamil movies yet.</td></tr>{% endfor %}
+{% else %}<tr><td colspan="6" class="hint">No Tamil movies yet.</td></tr>{% endfor %}
 </tbody></table></div>
 {% endblock %}

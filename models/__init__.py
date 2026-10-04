@@ -32,7 +32,9 @@ class TamilMovie(db.Model):
     description = db.Column(db.Text, default="")
     release_year = db.Column(db.Integer, nullable=False)
     category = db.Column(db.String(50), default="Tamil")
+    video_url = db.Column(db.String(1000), nullable=False, default="")
     download_url = db.Column(db.String(1000), nullable=False)
+    source = db.Column(db.String(20), nullable=False, default="admin")
     created_at = db.Column(db.DateTime, default=now)
     updated_at = db.Column(db.DateTime, default=now, onupdate=now)
 
@@ -43,7 +45,8 @@ class TamilMovie(db.Model):
             "description": self.description or "No description available.",
             "year": str(self.release_year), "releaseDate": str(self.release_year),
             "language": "Tamil", "genres": [self.category or "Tamil"], "rating": 0,
-            "downloadUrl": self.download_url, "createdAt": iso(self.created_at),
+            "watchUrl": self.video_url, "downloadUrl": self.download_url,
+            "source": self.source, "createdAt": iso(self.created_at),
         }
 
 

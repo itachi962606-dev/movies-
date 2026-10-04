@@ -1799,22 +1799,7 @@
       "rating": 10,
       "officialUrl": "https://www.themoviedb.org/movie/1269325/watch"
     },
-    {
-      "id": 1288059,
-      "title": "I Want Your Sex",
-      "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
-      "description": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
-      "year": "2026",
-      "releaseDate": "2026-07-29",
-      "originalLanguage": "en",
-      "language": "English",
-      "genres": [
-        "Comedy"
-      ],
-      "rating": 6.1,
-      "officialUrl": "https://www.themoviedb.org/movie/1288059/watch"
-    },
+    
     {
       "id": 1317872,
       "title": "Sardar 2",

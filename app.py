@@ -4,6 +4,7 @@ from pathlib import Path
 import click
 from dotenv import load_dotenv
 from flask import Flask
+from sqlalchemy import inspect, text
 
 from models import Admin, db
 from routes.admin import bp as admin_bp
@@ -33,6 +34,16 @@ def create_app():
     app.register_blueprint(admin_bp)
     with app.app_context():
         db.create_all()
+        movie_columns = {column["name"] for column in inspect(db.engine).get_columns("tamil_movie")}
+        with db.engine.begin() as connection:
+            if "video_url" not in movie_columns:
+                connection.execute(text(
+                    "ALTER TABLE tamil_movie ADD COLUMN video_url VARCHAR(1000) NOT NULL DEFAULT ''"
+                ))
+            if "source" not in movie_columns:
+                connection.execute(text(
+                    "ALTER TABLE tamil_movie ADD COLUMN source VARCHAR(20) NOT NULL DEFAULT 'admin'"
+                ))
 
     @app.cli.command("create-admin")
     @click.option("--username", prompt=True)

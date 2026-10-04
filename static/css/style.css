@@ -17,6 +17,7 @@ main{padding:24px 5%}
 .meta{color:var(--muted);margin:0 0 10px;font-size:.9rem}
 .btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:9px 16px;border-radius:8px;font-weight:600;font-size:.9rem}
 .btn.alt{background:#2a3040}
+button.btn{border:0;cursor:pointer;font-family:inherit}
 .msg{color:var(--muted)}.msg.error{color:#ff8a8a}
 .hero{height:320px;background-size:cover;background-position:center;border-radius:14px}
 .detail{display:flex;gap:28px;margin-top:-120px;padding:0 24px;position:relative;flex-wrap:wrap}

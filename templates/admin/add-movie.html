@@ -7,9 +7,15 @@
   <label>Poster image (PNG / JPG / WEBP, max 3 MB)<input type="file" name="poster_file" accept=".png,.jpg,.jpeg,.webp"></label>
   <label>…or Poster URL<input name="poster_url" value="{{ movie.poster_url if movie }}" placeholder="https://..."></label>
   <label>Description (optional)<textarea name="description" maxlength="3000">{{ movie.description if movie }}</textarea></label>
+  <label>Language<input value="Tamil" readonly></label>
+  <label>Genre<select name="category" required>
+    <option value="">Select a genre</option>
+    {% if movie and movie.category not in genres %}<option value="{{ movie.category }}" selected>{{ movie.category }}</option>{% endif %}
+    {% for genre in genres %}<option value="{{ genre }}" {% if movie and movie.category == genre %}selected{% endif %}>{{ genre }}</option>{% endfor %}
+  </select></label>
   <label>Release year<input name="release_year" type="number" min="1900" max="2100" required value="{{ movie.release_year if movie }}"></label>
-  <label>Category / language<input name="category" maxlength="50" value="{{ movie.category if movie else 'Tamil' }}"></label>
-  <label>Download URL<input name="download_url" type="url" required value="{{ movie.download_url if movie }}" placeholder="https://authorized-file-location.example/movie.mp4"></label>
+  <label>Video / Watch URL<input name="video_url" type="url" {% if not movie or movie.video_url %}required{% endif %} value="{{ movie.video_url if movie and movie.video_url }}" placeholder="https://..."></label>
+  <label>Download URL<input name="download_url" type="url" required value="{{ movie.download_url if movie }}" placeholder="https://..."></label>
   <label class="check"><input type="checkbox" name="rights" value="1" required> I own this file or am authorized to distribute it.</label>
   <p class="hint">Only add links to files you have the legal right to share.</p>
   <div class="row"><button class="btn" type="submit">{{ 'Save changes' if movie else 'Publish' }}</button><button class="btn alt" type="reset">Clear</button></div>
