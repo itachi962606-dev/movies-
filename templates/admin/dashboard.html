@@ -1,0 +1,12 @@
+{% extends "admin/base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h1>Dashboard</h1>
+<div class="stats">
+  <div class="stat"><b>{{ movie_count }}</b>Tamil movies</div>
+  <div class="stat"><b>{{ notif_count }}</b>Notifications</div>
+</div>
+<div class="row"><a class="btn" href="{{ url_for('admin.add_movie') }}">+ Add Movie</a><a class="btn alt" href="{{ url_for('admin.notifications') }}">New Notification</a></div>
+<h2>Latest movies</h2>
+{% for m in latest %}<p>{{ m.name }} ({{ m.release_year }})</p>{% else %}<p class="hint">No movies yet.</p>{% endfor %}
+{% endblock %}

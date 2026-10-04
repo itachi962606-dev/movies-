@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% block title %}Admin{% endblock %} | MoviesHub Admin</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}"></head>
+<body class="admin">
+<aside>
+  <a class="logo" href="{{ url_for('admin.dashboard') }}">
+    <img class="logo-image" src="{{ url_for('static', filename='images/logo.png') }}" alt="MoviesHub Logo"><span class="brand-name">Movies<span>Hub</span></span> <small>ADMIN</small>
+  </a>
+  <nav>
+    <a href="{{ url_for('admin.dashboard') }}">Dashboard</a>
+    <a href="{{ url_for('admin.movies') }}">Tamil Movies</a>
+    <a href="{{ url_for('admin.add_movie') }}">Add Movie</a>
+    <a href="{{ url_for('admin.notifications') }}">Notifications</a>
+    <a href="/" target="_blank">View site ↗</a>
+  </nav>
+</aside>
+<section class="content">{% block content %}{% endblock %}</section>
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+</body></html>

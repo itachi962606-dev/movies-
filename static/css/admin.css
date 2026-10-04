@@ -1,0 +1,25 @@
+body.admin{display:flex;min-height:100vh}
+body.admin aside{width:220px;background:var(--panel);padding:20px;display:flex;flex-direction:column;gap:8px;position:sticky;top:0;height:100vh}
+body.admin aside small{color:var(--muted);font-size:.7rem}
+body.admin nav{display:flex;flex-direction:column;gap:6px;margin:16px 0;flex:1}
+body.admin nav a{color:var(--text);text-decoration:none;padding:10px 12px;border-radius:8px}
+body.admin nav a:hover{background:#2a3040}
+.content{flex:1;padding:28px 5%;min-width:0}
+.stats{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:24px}
+.stat{background:var(--panel);padding:20px 28px;border-radius:12px}.stat b{display:block;font-size:2rem;color:var(--accent)}
+.tbl{width:100%;border-collapse:collapse;background:var(--panel);border-radius:12px;overflow:hidden}
+.tbl th,.tbl td{padding:10px 14px;text-align:left;border-bottom:1px solid #2a3040;vertical-align:middle}
+.tbl img{width:46px;height:68px;object-fit:cover;border-radius:6px}
+.table-wrap{overflow-x:auto}
+.form{background:var(--panel);padding:24px;border-radius:12px;max-width:640px;display:flex;flex-direction:column;gap:14px}
+.form label{display:flex;flex-direction:column;gap:6px;color:var(--muted);font-size:.9rem}
+.form textarea{background:var(--bg);color:var(--text);border:1px solid #2a3040;border-radius:8px;padding:10px;font:inherit;min-height:100px}
+.form .check{flex-direction:row;align-items:flex-start;gap:8px}
+.form .check input{min-width:0;max-width:none;flex:none}
+.row{display:flex;gap:10px;flex-wrap:wrap}
+button.btn{border:0;cursor:pointer;font-family:inherit}
+.btn.danger{background:#b3261e}
+.login-box{margin:12vh auto;max-width:360px;width:100%}
+.err{color:#ff8a8a}.ok{color:#7ee787}
+.hint{color:var(--muted);font-size:.8rem}
+@media(max-width:760px){body.admin{flex-direction:column}body.admin aside{width:100%;height:auto;position:static}body.admin nav{flex-direction:row;flex-wrap:wrap}}

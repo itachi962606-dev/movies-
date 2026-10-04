@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Admin Login | MoviesHub</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}"></head>
+<body>
+<div class="login-box">
+  <h1 class="logo" style="text-align:center">Movies<span>Hub</span> Admin</h1>
+  <form class="form" method="post">
+    {% if error %}<p class="err">{{ error }}</p>{% endif %}
+    <label>Username<input name="username" required autofocus></label>
+    <label>Password<input name="password" type="password" required></label>
+    <button class="btn" type="submit">Log in</button>
+  </form>
+</div></body></html>

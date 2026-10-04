@@ -1,0 +1,19 @@
+{% extends "admin/base.html" %}
+{% block title %}Notifications{% endblock %}
+{% block content %}
+<h1>Notifications</h1>
+<form class="form" id="notifForm">
+  <label>Notification title<input name="title" required maxlength="120" placeholder="New Tamil Movie Added"></label>
+  <label>Notification message<textarea name="message" required maxlength="1000" placeholder="A new Tamil movie has been added to MoviesHub."></textarea></label>
+  <button class="btn" type="submit">Publish notification</button>
+  <p id="formMsg"></p>
+</form>
+<h2>Published</h2>
+{% for n in notifications %}
+<div class="notif" data-row>
+  <h3>{{ n.title }}</h3><p>{{ n.message }}</p>
+  <p class="meta">{{ n.created_at.strftime('%d %b %Y, %H:%M') }} UTC</p>
+  <button class="btn danger" data-delete="/api/admin/notifications/{{ n.id }}" data-name="{{ n.title }}">Delete</button>
+</div>
+{% else %}<p class="hint">Nothing published yet.</p>{% endfor %}
+{% endblock %}
