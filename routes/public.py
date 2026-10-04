@@ -31,7 +31,12 @@ def international_movies():
     path = os.path.join(current_app.root_path, "data", "movies.json")
     try:
         with open(path, encoding="utf-8") as f:
-            return jsonify(json.load(f))
+            catalogue = json.load(f)
+        catalogue["movies"] = [
+            movie for movie in catalogue.get("movies", [])
+            if movie.get("originalLanguage") != "ta" and movie.get("language") != "Tamil"
+        ]
+        return jsonify(catalogue)
     except (OSError, ValueError):
         return jsonify(error="International catalogue unavailable. Run the TMDB update script."), 503
 
@@ -39,12 +44,44 @@ def international_movies():
 @bp.get("/api/tamil-movies")
 def tamil_movies():
     items = TamilMovie.query.order_by(TamilMovie.created_at.desc()).all()
-    return jsonify(movies=[m.to_dict() for m in items])
+    path = os.path.join(current_app.root_path, "data", "movies.json")
+    try:
+        with open(path, encoding="utf-8") as f:
+            catalogue = json.load(f)
+    except (OSError, ValueError):
+        return jsonify(error="Tamil catalogue unavailable. Run the TMDB update script."), 503
+    tmdb_movies = [
+        {**movie, "id": f"tmdb-{movie['id']}", "source": "tmdb"}
+        for movie in catalogue.get("movies", [])
+        if movie.get("originalLanguage") == "ta"
+    ]
+    return jsonify(movies=[m.to_dict() for m in items] + tmdb_movies)
 
 
-@bp.get("/api/tamil-movies/<int:movie_id>")
+@bp.get("/api/tamil-movies/<movie_id>")
 def tamil_movie(movie_id):
-    return jsonify(db.get_or_404(TamilMovie, movie_id).to_dict())
+    if movie_id.startswith("tmdb-"):
+        tmdb_id = movie_id[len("tmdb-"):]
+        path = os.path.join(current_app.root_path, "data", "movies.json")
+        try:
+            with open(path, encoding="utf-8") as f:
+                catalogue = json.load(f)
+        except (OSError, ValueError):
+            return jsonify(error="Tamil catalogue unavailable. Run the TMDB update script."), 503
+        movie = next(
+            (
+                {**item, "id": f"tmdb-{item['id']}", "source": "tmdb"}
+                for item in catalogue.get("movies", [])
+                if item.get("originalLanguage") == "ta" and str(item.get("id")) == tmdb_id
+            ),
+            None,
+        )
+        if movie is None:
+            return jsonify(error="Movie not found."), 404
+        return jsonify(movie)
+    if not movie_id.isdecimal():
+        return jsonify(error="Movie not found."), 404
+    return jsonify(db.get_or_404(TamilMovie, int(movie_id)).to_dict())
 
 
 @bp.get("/api/notifications")

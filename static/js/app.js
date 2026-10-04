@@ -47,7 +47,9 @@ async function initDetails() {
   if (error) { box.innerHTML = `<p class="msg error">${esc(error)}</p>`; return; }
   if (!m) { box.innerHTML = '<p class="msg error">Movie not found.</p>'; return; }
   document.title = m.title + ' | MoviesHub';
-  const button = src === 'tamil'
+  const button = m.officialUrl
+    ? `<a class="btn" href="${esc(m.officialUrl)}" target="_blank" rel="noopener noreferrer">Watch / Official Source</a>`
+    : src === 'tamil'
     ? `<a class="btn" href="${esc(m.downloadUrl)}" target="_blank" rel="noopener noreferrer">Download</a>`
     : `<a class="btn" href="${esc(m.officialUrl)}" target="_blank" rel="noopener">Watch / Official Source</a>`;
   box.innerHTML = `

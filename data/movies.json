@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T09:54:43.411Z",
+  "updatedAt": "2026-10-04T16:51:48.105Z",
   "movies": [
     {
       "id": 969681,
@@ -9,6 +9,7 @@
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "year": "2026",
       "releaseDate": "2026-07-29",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -26,6 +27,7 @@
       "description": "Trapped in a fatal pursuit within the Celestial Realm of Thunder, Wang Lin faces his ultimate crisis. Watch the underdog defy the odds, flip the script in a world-shaking counterattack, and achieve the ultimate, magnificent feat: SLAYING A CELESTIAL.",
       "year": "2026",
       "releaseDate": "2026-10-01",
+      "originalLanguage": "zh",
       "language": "Chinese",
       "genres": [
         "Animation",
@@ -44,6 +46,7 @@
       "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "year": "2026",
       "releaseDate": "2026-09-16",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -61,6 +64,7 @@
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "year": "2026",
       "releaseDate": "2026-07-15",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -78,6 +82,7 @@
       "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "year": "2026",
       "releaseDate": "2026-08-17",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -95,6 +100,7 @@
       "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "year": "2026",
       "releaseDate": "2026-09-07",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -111,6 +117,7 @@
       "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
       "year": "2026",
       "releaseDate": "2026-09-10",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -127,6 +134,7 @@
       "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "year": "2026",
       "releaseDate": "2026-08-12",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -144,13 +152,14 @@
       "description": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
       "year": "2026",
       "releaseDate": "2026-09-15",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
         "Drama",
         "Thriller"
       ],
-      "rating": 6.5,
+      "rating": 6.4,
       "officialUrl": "https://www.themoviedb.org/movie/1751701/watch"
     },
     {
@@ -161,6 +170,7 @@
       "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "year": "2026",
       "releaseDate": "2026-09-23",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Romance",
@@ -177,6 +187,7 @@
       "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
       "year": "2026",
       "releaseDate": "2026-09-28",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -193,7 +204,8 @@
       "description": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
       "year": "2026",
       "releaseDate": "2026-10-29",
-      "language": "Turkish",
+      "originalLanguage": "en",
+      "language": "English",
       "genres": [
         "Action",
         "Thriller"
@@ -209,6 +221,7 @@
       "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "year": "2026",
       "releaseDate": "2026-05-21",
+      "originalLanguage": "ko",
       "language": "Korean",
       "genres": [
         "Horror",
@@ -226,6 +239,7 @@
       "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "year": "2026",
       "releaseDate": "2026-08-19",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -242,6 +256,7 @@
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "year": "2026",
       "releaseDate": "2026-06-17",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
@@ -260,6 +275,7 @@
       "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
       "year": "2026",
       "releaseDate": "2026-09-10",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "History",
@@ -276,6 +292,7 @@
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "year": "2026",
       "releaseDate": "2026-05-13",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -292,6 +309,7 @@
       "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "year": "2026",
       "releaseDate": "2026-09-19",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -308,6 +326,7 @@
       "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "year": "2026",
       "releaseDate": "2026-09-25",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Thriller",
@@ -342,6 +361,7 @@
       "description": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
       "year": "2026",
       "releaseDate": "2026-09-25",
+      "originalLanguage": "ta",
       "language": "Tamil",
       "genres": [
         "Comedy",
@@ -359,6 +379,7 @@
       "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work.",
       "year": "2026",
       "releaseDate": "2026-09-30",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Mystery",
@@ -375,6 +396,7 @@
       "description": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
       "year": "2026",
       "releaseDate": "2026-08-21",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -391,6 +413,7 @@
       "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
       "year": "2026",
       "releaseDate": "2026-08-03",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -408,6 +431,7 @@
       "description": "When her ground-breaking pharmaceutical discovery is stolen and partner murdered, researcher Amy must face her fear of heights to escape nefarious attackers, with the only path to salvation being a treacherous aerial runway. To outsmart the mysterious hostiles, she has to summon every ounce of courage to protect the world-changing scientific discovery — and herself — before it's too late.",
       "year": "2026",
       "releaseDate": "2026-08-31",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -424,6 +448,7 @@
       "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network.",
       "year": "2026",
       "releaseDate": "2026-09-22",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -440,6 +465,7 @@
       "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "year": "2026",
       "releaseDate": "2026-07-08",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Family",
@@ -458,6 +484,7 @@
       "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "year": "2026",
       "releaseDate": "2026-03-15",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -473,7 +500,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
       "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "year": "2026",
-      "releaseDate": "2026-12-15",
+      "releaseDate": "2026-12-16",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -491,6 +519,7 @@
       "description": "A strange doorway appears in the basement of a furniture showroom.",
       "year": "2026",
       "releaseDate": "2026-05-27",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -508,6 +537,7 @@
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "year": "2026",
       "releaseDate": "2026-06-24",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -527,6 +557,7 @@
       "description": "Martial arts fighter Joe goes to prison for four years and takes his wife's blame for a drug bust. After his release, he learns that his son needs expensive surgery because of a life-threatening tumor. Joe's only chance to save him: a brutal all-styles tournament with a $100,000 prize.",
       "year": "2026",
       "releaseDate": "2026-09-10",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action"
@@ -542,12 +573,13 @@
       "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "year": "2026",
       "releaseDate": "2026-09-23",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Thriller",
         "Drama"
       ],
-      "rating": 7.1,
+      "rating": 7,
       "officialUrl": "https://www.themoviedb.org/movie/1375441/watch"
     },
     {
@@ -558,6 +590,7 @@
       "description": "Follows the search for a missing military officer in the jungle of Khao Khwang, where legend says man-eating tiger spirit Saming takes human form in 1960s Thailand.",
       "year": "2026",
       "releaseDate": "2026-09-29",
+      "originalLanguage": "th",
       "language": "Thai",
       "genres": [
         "Horror",
@@ -575,15 +608,15 @@
       "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "year": "2026",
       "releaseDate": "2026-09-10",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
         "Adventure",
         "Fantasy",
-        "Comedy",
-        "Family"
+        "Comedy"
       ],
-      "rating": 8.3,
+      "rating": 8.2,
       "officialUrl": "https://www.themoviedb.org/movie/1465063/watch"
     },
     {
@@ -594,6 +627,7 @@
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "year": "2026",
       "releaseDate": "2026-06-10",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -610,6 +644,7 @@
       "description": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original’s star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
       "year": "2026",
       "releaseDate": "2026-08-06",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -627,12 +662,13 @@
       "description": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
       "year": "2026",
       "releaseDate": "2026-09-09",
+      "originalLanguage": "es",
       "language": "Spanish",
       "genres": [
         "Romance",
         "Thriller"
       ],
-      "rating": 6.8,
+      "rating": 6.9,
       "officialUrl": "https://www.themoviedb.org/movie/1440098/watch"
     },
     {
@@ -643,6 +679,7 @@
       "description": "A man keeping his recently zombified daughter secure in hopes of a cure is tasked with delivering an unknown package through hordes of undead. If he succeeds, he will be given a cure for his daughter. If he fails, or opens the package, they will both be killed.",
       "year": "2026",
       "releaseDate": "2026-09-04",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror"
@@ -658,12 +695,13 @@
       "description": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: filmmaking. On campus, she meets Vadim Arcadi, 20, a magnetic and solitary rebel with a troubled past. Forced to collaborate on a student film, they clash, grow closer and fall in love — despite themselves. But someone is watching them, determined to tear them apart and expose secrets that could destroy both Alma and Vadim.",
       "year": "2026",
       "releaseDate": "2026-09-18",
+      "originalLanguage": "fr",
       "language": "French",
       "genres": [
         "Romance",
         "Drama"
       ],
-      "rating": 5.8,
+      "rating": 5.7,
       "officialUrl": "https://www.themoviedb.org/movie/1641629/watch"
     },
     {
@@ -674,6 +712,7 @@
       "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "year": "2026",
       "releaseDate": "2026-07-24",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
@@ -692,11 +731,12 @@
       "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "year": "2026",
       "releaseDate": "2026-09-01",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Thriller"
       ],
-      "rating": 6.1,
+      "rating": 6.2,
       "officialUrl": "https://www.themoviedb.org/movie/1101412/watch"
     },
     {
@@ -707,6 +747,7 @@
       "description": "While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",
       "year": "2026",
       "releaseDate": "2026-05-13",
+      "originalLanguage": "id",
       "language": "Indonesian",
       "genres": [
         "Horror",
@@ -723,6 +764,7 @@
       "description": "When an American heir living in a luxurious Spanish villa decides to move in with his girlfriend, his departure triggers a family collapse as his brother uncovers the truth behind their mother's tragic death.",
       "year": "2026",
       "releaseDate": "2026-04-23",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -740,6 +782,7 @@
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "year": "2026",
       "releaseDate": "2026-05-20",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -757,6 +800,7 @@
       "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "year": "2026",
       "releaseDate": "2026-06-18",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -774,6 +818,7 @@
       "description": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "year": "2026",
       "releaseDate": "2026-09-03",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Thriller",
@@ -790,6 +835,7 @@
       "description": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
       "year": "2026",
       "releaseDate": "2026-08-21",
+      "originalLanguage": "es",
       "language": "Spanish",
       "genres": [
         "Crime",
@@ -807,6 +853,7 @@
       "description": "A 10-year-old girl begins to believe her parents are trying to kill her. Convinced a sinister spirit is to blame, she spirals into a haunting fantasy world that mirrors her deepest fears.",
       "year": "2026",
       "releaseDate": "2026-09-25",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Drama",
@@ -819,10 +866,11 @@
       "id": 1185806,
       "title": "PAW Patrol: The Dino Movie",
       "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/c9Vatzm113Q3HgYsqThfYf0mpsr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
       "year": "2026",
       "releaseDate": "2026-07-23",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
@@ -842,6 +890,7 @@
       "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
       "year": "2026",
       "releaseDate": "2026-08-06",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -859,6 +908,7 @@
       "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
       "year": "2026",
       "releaseDate": "2026-08-26",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Romance",
@@ -875,6 +925,7 @@
       "description": "A talented violinist's prestigious new role as a music tutor for an enigmatic, elite family spirals into a psychological battle for her safety and sanity.",
       "year": "2026",
       "releaseDate": "2026-06-18",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Mystery",
@@ -891,6 +942,7 @@
       "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
       "year": "2026",
       "releaseDate": "2026-06-10",
+      "originalLanguage": "zh",
       "language": "Chinese",
       "genres": [
         "Action",
@@ -908,6 +960,7 @@
       "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "year": "2026",
       "releaseDate": "2026-06-24",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -925,6 +978,7 @@
       "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
       "year": "2026",
       "releaseDate": "2026-06-03",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy"
@@ -940,6 +994,7 @@
       "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
       "year": "2026",
       "releaseDate": "2026-04-01",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Family",
@@ -959,6 +1014,7 @@
       "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
       "year": "2026",
       "releaseDate": "2026-07-31",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -976,6 +1032,7 @@
       "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
       "year": "2026",
       "releaseDate": "2026-03-26",
+      "originalLanguage": "ru",
       "language": "Russian",
       "genres": [
         "Romance"
@@ -991,6 +1048,7 @@
       "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "year": "2026",
       "releaseDate": "2026-04-22",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Music",
@@ -1007,6 +1065,7 @@
       "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
       "year": "2026",
       "releaseDate": "2026-08-26",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Science Fiction",
@@ -1024,6 +1083,7 @@
       "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
       "year": "2026",
       "releaseDate": "2026-09-09",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Romance",
@@ -1041,6 +1101,7 @@
       "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "year": "2026",
       "releaseDate": "2026-07-07",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror"
@@ -1056,6 +1117,7 @@
       "description": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
       "year": "2026",
       "releaseDate": "2026-06-23",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
@@ -1074,12 +1136,13 @@
       "description": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go hilariously off the rails, until the pranks turn to panic, and a real murder mystery unfolds on camera, trapping the trio and their celebrity guests in a high-stakes, horror-comedy whodunnit watched by millions.",
       "year": "2026",
       "releaseDate": "2026-09-30",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
         "Comedy"
       ],
-      "rating": 6.1,
+      "rating": 5.9,
       "officialUrl": "https://www.themoviedb.org/movie/1437195/watch"
     },
     {
@@ -1090,6 +1153,7 @@
       "description": "Four couples sail the thin line between desire and search for authenticity, in a world where truth is as fragile as their relationships.",
       "year": "2026",
       "releaseDate": "2026-02-05",
+      "originalLanguage": "es",
       "language": "Spanish",
       "genres": [
         "Comedy",
@@ -1106,6 +1170,7 @@
       "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
       "year": "2026",
       "releaseDate": "2026-08-19",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -1122,6 +1187,7 @@
       "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "year": "2026",
       "releaseDate": "2026-07-15",
+      "originalLanguage": "ko",
       "language": "Korean",
       "genres": [
         "Science Fiction",
@@ -1139,6 +1205,7 @@
       "description": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friends who share a memorable past and a complicated present: one is a liberated city girl, the other a sheltered country virgin, and both are surrounded by men eager to get a taste of their youth.",
       "year": "2026",
       "releaseDate": "2026-06-30",
+      "originalLanguage": "tl",
       "language": "Filipino",
       "genres": [
         "Drama"
@@ -1187,6 +1254,7 @@
       "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
       "year": "2026",
       "releaseDate": "2026-06-03",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1240,6 +1308,7 @@
       "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy craft and a hand-radio to evade capture and find his way back to his unit.",
       "year": "2026",
       "releaseDate": "2026-06-26",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1256,6 +1325,7 @@
       "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
       "year": "2026",
       "releaseDate": "2026-03-04",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -1275,6 +1345,7 @@
       "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
       "year": "2026",
       "releaseDate": "2026-01-28",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1309,6 +1380,7 @@
       "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abilities. Faced with the prospect of sending Chloe away for years, the Thundermans split apart, with Phoebe, Barb and Billy taking her into hiding. Max, Hank, and Nora track their rogue family members, until the two factions face off against each other in a full-on battle for the Thundermans’ future.",
       "year": "2026",
       "releaseDate": "2026-09-03",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "TV Movie",
@@ -1327,6 +1399,7 @@
       "description": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
       "year": "2026",
       "releaseDate": "2026-08-14",
+      "originalLanguage": "ta",
       "language": "Tamil",
       "genres": [
         "Drama",
@@ -1344,6 +1417,7 @@
       "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "year": "2026",
       "releaseDate": "2026-05-01",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Adventure",
@@ -1362,6 +1436,7 @@
       "description": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
       "year": "2026",
       "releaseDate": "2026-04-16",
+      "originalLanguage": "id",
       "language": "Indonesian",
       "genres": [
         "Horror",
@@ -1379,6 +1454,7 @@
       "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
       "year": "2026",
       "releaseDate": "2026-01-28",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1396,6 +1472,7 @@
       "description": "A group of friends set off for an unforgettable vacation. What begins as an adventure of partying and diving quickly turns into a nightmare when they are attacked by criminals in open waters.",
       "year": "2026",
       "releaseDate": "2026-07-29",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Thriller",
@@ -1408,10 +1485,11 @@
       "id": 1314481,
       "title": "The Devil Wears Prada 2",
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dRoFlUbH1l51ACmx5oPCI3jfvZq.jpg",
       "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
       "year": "2026",
       "releaseDate": "2026-04-29",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy",
@@ -1428,6 +1506,7 @@
       "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "year": "2026",
       "releaseDate": "2026-05-12",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1445,12 +1524,13 @@
       "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all odds.",
       "year": "2026",
       "releaseDate": "2026-10-02",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Drama",
         "Romance"
       ],
-      "rating": 6.4,
+      "rating": 6.5,
       "officialUrl": "https://www.themoviedb.org/movie/1458857/watch"
     },
     {
@@ -1461,6 +1541,7 @@
       "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they’ve forgotten how to take care of themselves and each other. Burned out and overdue for a break, the women escape to a luxury spa retreat for an unforgettable weekend dedicated to fun, laughter, and a lot of really bad decisions.",
       "year": "2026",
       "releaseDate": "2026-08-20",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Comedy"
@@ -1476,6 +1557,7 @@
       "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
       "year": "2026",
       "releaseDate": "2026-02-12",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1493,6 +1575,7 @@
       "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented.",
       "year": "2026",
       "releaseDate": "2026-08-27",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -1510,6 +1593,7 @@
       "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "year": "2026",
       "releaseDate": "2026-02-11",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Animation",
@@ -1527,6 +1611,7 @@
       "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
       "year": "2026",
       "releaseDate": "2026-08-27",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Crime",
@@ -1544,6 +1629,7 @@
       "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
       "year": "2026",
       "releaseDate": "2026-09-02",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1560,6 +1646,7 @@
       "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mine with a dangerous crew of prisoners and he’ll win his freedom.",
       "year": "2026",
       "releaseDate": "2026-09-16",
+      "originalLanguage": "pt",
       "language": "Portuguese",
       "genres": [
         "Drama",
@@ -1594,6 +1681,7 @@
       "description": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
       "year": "2026",
       "releaseDate": "2026-02-06",
+      "originalLanguage": "no",
       "language": "Norwegian",
       "genres": [
         "Horror",
@@ -1611,6 +1699,7 @@
       "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
       "year": "2026",
       "releaseDate": "2026-05-13",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1627,6 +1716,7 @@
       "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "year": "2026",
       "releaseDate": "2026-05-06",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Action",
@@ -1644,6 +1734,7 @@
       "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
       "year": "2026",
       "releaseDate": "2026-02-25",
+      "originalLanguage": "en",
       "language": "English",
       "genres": [
         "Horror",
@@ -1652,6 +1743,1639 @@
       ],
       "rating": 6.2,
       "officialUrl": "https://www.themoviedb.org/movie/1159559/watch"
+    },
+    {
+      "id": 1542261,
+      "title": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+      "poster": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+      "description": "Nobita and friends finds a secret underwater castle packed with mysteries and riches. With Doraemon's high-tech gadgets, they dive into an ocean adventure mixing humor, teamwork, and imagination in a breathtaking aquatic world.",
+      "year": "2026",
+      "releaseDate": "2026-02-27",
+      "originalLanguage": "ja",
+      "language": "Japanese",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ],
+      "rating": 7.1,
+      "officialUrl": "https://www.themoviedb.org/movie/1542261/watch"
+    },
+    {
+      "id": 1536756,
+      "title": "Blood & Rust",
+      "poster": "https://image.tmdb.org/t/p/w500/hg7DClp5yenC5IbJ04sl8Mn2b32.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s5RjDjlG0COGVZRhb9vRxOwbKY2.jpg",
+      "description": "In the fading rustbelt town of Redpatch, Ohio, nights feel longer, shadows heavier, and strangers never arrive without reason. After losing his father to a strange animal attack, burned-out diner manager Lamont Guest crosses paths with a mysterious drifter - the road-weary vampire slayer Belko - and soon finds himself drawn into battle against the ancient evil that's bleeding his hometown dry.",
+      "year": "2026",
+      "releaseDate": "2026-05-08",
+      "originalLanguage": "en",
+      "language": "English",
+      "genres": [
+        "Horror",
+        "Action"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1536756/watch"
+    },
+    {
+      "id": 1269325,
+      "title": "Drishyam: The Conclusion",
+      "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "description": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "year": "2026",
+      "releaseDate": "2026-10-02",
+      "originalLanguage": "hi",
+      "language": "Hindi",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "rating": 10,
+      "officialUrl": "https://www.themoviedb.org/movie/1269325/watch"
+    },
+    {
+      "id": 1288059,
+      "title": "I Want Your Sex",
+      "poster": "https://image.tmdb.org/t/p/w500/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+      "description": "When a naive young man becomes the sexual muse for a renowned and provocative artist, his dream job quickly turns dangerous as he is drawn into an obsessive world of power, betrayal, and murder.",
+      "year": "2026",
+      "releaseDate": "2026-07-29",
+      "originalLanguage": "en",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.1,
+      "officialUrl": "https://www.themoviedb.org/movie/1288059/watch"
+    },
+    {
+      "id": 1317872,
+      "title": "Sardar 2",
+      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "description": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "year": "2026",
+      "releaseDate": "2026-09-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 4.5,
+      "officialUrl": "https://www.themoviedb.org/movie/1317872/watch"
+    },
+    {
+      "id": 1314279,
+      "title": "Hi :)",
+      "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
+      "description": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+      "year": "2026",
+      "releaseDate": "2026-08-28",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "rating": 4.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1314279/watch"
+    },
+    {
+      "id": 1685882,
+      "title": "Modha Rathri",
+      "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+      "description": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "year": "2026",
+      "releaseDate": "2026-08-21",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 7.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1685882/watch"
+    },
+    {
+      "id": 1618200,
+      "title": "The Dark Heaven",
+      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
+      "description": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
+      "year": "2026",
+      "releaseDate": "2026-09-18",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1618200/watch"
+    },
+    {
+      "id": 1235877,
+      "title": "Jana Nayagan",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "year": "2026",
+      "releaseDate": "2026-07-22",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 5.1,
+      "officialUrl": "https://www.themoviedb.org/movie/1235877/watch"
+    },
+    {
+      "id": 1515729,
+      "title": "Blast",
+      "poster": "https://image.tmdb.org/t/p/w500/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+      "description": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+      "year": "2026",
+      "releaseDate": "2026-05-28",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1515729/watch"
+    },
+    {
+      "id": 1479832,
+      "title": "DC",
+      "poster": "https://image.tmdb.org/t/p/w500/8k71CD24GIAmEFgHYRhqFvwbXH8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "description": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "year": "2026",
+      "releaseDate": "2026-08-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1479832/watch"
+    },
+    {
+      "id": 1576223,
+      "title": "Rage",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
+      "backdrop": "",
+      "description": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "year": "2026",
+      "releaseDate": "2026-09-18",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1576223/watch"
+    },
+    {
+      "id": 1367220,
+      "title": "Karuppu",
+      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "description": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+      "year": "2026",
+      "releaseDate": "2026-05-14",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 6.6,
+      "officialUrl": "https://www.themoviedb.org/movie/1367220/watch"
+    },
+    {
+      "id": 1489543,
+      "title": "G.D.N",
+      "poster": "https://image.tmdb.org/t/p/w500/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
+      "description": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
+      "year": "2026",
+      "releaseDate": "2026-08-07",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 6,
+      "officialUrl": "https://www.themoviedb.org/movie/1489543/watch"
+    },
+    {
+      "id": 1509599,
+      "title": "Gatta Kusthi 2",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+      "description": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "year": "2026",
+      "releaseDate": "2026-07-03",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 4.9,
+      "officialUrl": "https://www.themoviedb.org/movie/1509599/watch"
+    },
+    {
+      "id": 1234139,
+      "title": "Jailer 2",
+      "poster": "https://image.tmdb.org/t/p/w500/1XV6xdaaBdgVTcJfdla4yQrSlXq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+      "description": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with the consequences of his actions against the antique mafia.",
+      "year": "2026",
+      "releaseDate": "2026-10-15",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1234139/watch"
+    },
+    {
+      "id": 1578079,
+      "title": "Dorothy",
+      "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kgjEdOtvXU3UQwqQOONX74zZoag.jpg",
+      "description": "Set in a world shaped by caste, violence, and toxic masculinity, two childhood friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion quietly challenges the world around them.",
+      "year": "2026",
+      "releaseDate": "2026-09-25",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.5,
+      "officialUrl": "https://www.themoviedb.org/movie/1578079/watch"
+    },
+    {
+      "id": 1465943,
+      "title": "Mandaadi",
+      "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+      "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+      "year": "2026",
+      "releaseDate": "2026-09-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8,
+      "officialUrl": "https://www.themoviedb.org/movie/1465943/watch"
+    },
+    {
+      "id": 1515692,
+      "title": "Baththa",
+      "poster": "https://image.tmdb.org/t/p/w500/cWY636zXGECkRHbrqhQdFyP9n69.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lWHobZZO6S6pn7SUMAzzjgMncBI.jpg",
+      "description": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+      "year": "2026",
+      "releaseDate": "2026-10-01",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Action"
+      ],
+      "rating": 7.5,
+      "officialUrl": "https://www.themoviedb.org/movie/1515692/watch"
+    },
+    {
+      "id": 1433117,
+      "title": "Kara",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
+      "description": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+      "year": "2026",
+      "releaseDate": "2026-04-30",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "rating": 5.9,
+      "officialUrl": "https://www.themoviedb.org/movie/1433117/watch"
+    },
+    {
+      "id": 1432631,
+      "title": "Idhayam Murali",
+      "poster": "https://image.tmdb.org/t/p/w500/89FVZLNurx7Y0lhGrwYXyRHmKnh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+      "description": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+      "year": "2026",
+      "releaseDate": "2026-07-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "officialUrl": "https://www.themoviedb.org/movie/1432631/watch"
+    },
+    {
+      "id": 1542352,
+      "title": "Youth",
+      "poster": "https://image.tmdb.org/t/p/w500/odMKGyeC2rGuvr3Yy7S8txD0sFx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "description": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "year": "2026",
+      "releaseDate": "2026-03-19",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 6.9,
+      "officialUrl": "https://www.themoviedb.org/movie/1542352/watch"
+    },
+    {
+      "id": 1318304,
+      "title": "Once More",
+      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
+      "description": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
+      "year": "2026",
+      "releaseDate": "2026-08-28",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1318304/watch"
+    },
+    {
+      "id": 1561687,
+      "title": "Made in Korea",
+      "poster": "https://image.tmdb.org/t/p/w500/n6gCKjagOFsU4arFngUq2QqR1jv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5MaWBfAxdlbsqDpq8mjCBNVoLM3.jpg",
+      "description": "A woman from a small town in Tamil Nadu moves to South Korea — a place she always dreamed of — but struggles to find her footing in a foreign land.",
+      "year": "2026",
+      "releaseDate": "2026-03-12",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.3,
+      "officialUrl": "https://www.themoviedb.org/movie/1561687/watch"
+    },
+    {
+      "id": 1395215,
+      "title": "Sigma",
+      "poster": "https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/usAlt5OOT54Zw6lLS2zLhKUuc2Q.jpg",
+      "description": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning.",
+      "year": "2026",
+      "releaseDate": "2026-10-02",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1395215/watch"
+    },
+    {
+      "id": 1538273,
+      "title": "Pyaar Prema Kalyanam",
+      "poster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+      "description": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
+      "year": "2026",
+      "releaseDate": "2026-08-21",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.9,
+      "officialUrl": "https://www.themoviedb.org/movie/1538273/watch"
+    },
+    {
+      "id": 1510769,
+      "title": "29",
+      "poster": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gzOamXAMuBpWFcCitMdEoAVAjCf.jpg",
+      "description": "A quirky 29-year-old named Sathya embarks on an unexpected journey of laughter, unlikely friendships, and self-discovery. Through hilarious misadventures and chance encounters, he slowly sees life's bigger picture - its surprises, joys, and second chances.",
+      "year": "2026",
+      "releaseDate": "2026-05-08",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1510769/watch"
+    },
+    {
+      "id": 1602783,
+      "title": "Thaai Kizhavi",
+      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "description": "An elderly and feared moneylender from a village near Madurai falls seriously ill, prompting her estranged sons and extended family to reunite after years of separation. As tensions rise inside the household, hidden motives, family conflicts, and expectations over her wealth turn her uncertain condition into the center of a chaotic family drama.",
+      "year": "2026",
+      "releaseDate": "2026-02-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "officialUrl": "https://www.themoviedb.org/movie/1602783/watch"
+    },
+    {
+      "id": 1565790,
+      "title": "Double Occupancy",
+      "poster": "https://image.tmdb.org/t/p/w500/afwvI8D1SLSMqINJbq0Wi9eCBWt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v4Fkzv4wrlGzF3af60Xwxpb5tJk.jpg",
+      "description": "Rajini transforms between woman by day and man by night, hiding this gender swap from partners creating tangled complications.",
+      "year": "2026",
+      "releaseDate": "2026-06-12",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 6.2,
+      "officialUrl": "https://www.themoviedb.org/movie/1565790/watch"
+    },
+    {
+      "id": 1384528,
+      "title": "OM Chapter 1: Udhiram - The Blood Wood",
+      "poster": "https://image.tmdb.org/t/p/w500/8f1pQYG9UxON4GAKXhNxfeG1rhI.jpg",
+      "backdrop": "",
+      "description": "No description available.",
+      "year": "2026",
+      "releaseDate": "2026-11-20",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1384528/watch"
+    },
+    {
+      "id": 1209511,
+      "title": "Love Insurance Kompany",
+      "poster": "https://image.tmdb.org/t/p/w500/pOWlTPQtU7sBHaNyQtQS4pwLGuf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "description": "In 2040, an app premised on ensuring romance for all is used widely by the population. When the voice behind the app's AI realizes its misconception to true love, he embarks on a quest to prove that love does not come from a screen.",
+      "year": "2026",
+      "releaseDate": "2026-04-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "rating": 4.2,
+      "officialUrl": "https://www.themoviedb.org/movie/1209511/watch"
+    },
+    {
+      "id": 1431738,
+      "title": "Anbil Avan",
+      "poster": "https://image.tmdb.org/t/p/w500/2cN2WjL4xQvbJIhxSjGmhXL41rX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3We0uVjyoiyL3BcydkN3ePz4Fpj.jpg",
+      "description": "A married couple attempts to start a good life together, but unexpected trouble traps them in an unsettling situation that forces them to fight back for their survival.",
+      "year": "2026",
+      "releaseDate": "2026-10-02",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1431738/watch"
+    },
+    {
+      "id": 1126723,
+      "title": "Mr. X",
+      "poster": "https://image.tmdb.org/t/p/w500/7aqx7T9FNu1HPCyb0CBjJtjshoU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "description": "Centers on secret intelligence agency cases involving five major national threats that were thwarted through covert operations.",
+      "year": "2026",
+      "releaseDate": "2026-04-17",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 5.5,
+      "officialUrl": "https://www.themoviedb.org/movie/1126723/watch"
+    },
+    {
+      "id": 1602337,
+      "title": "Parimala and Co",
+      "poster": "https://image.tmdb.org/t/p/w500/vN2TOTKin83av7hwYnwAKSd3EG8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hcQ9Kcmc34yYElii4fjFxABQYqq.jpg",
+      "description": "A dark comedy centered around a chaotic family whose tangled relationships and unpredictable situations lead to emotionally charged and absurd moments, blending humor with underlying tension and drama.",
+      "year": "2026",
+      "releaseDate": "2026-06-05",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 5.6,
+      "officialUrl": "https://www.themoviedb.org/movie/1602337/watch"
+    },
+    {
+      "id": 1508564,
+      "title": "With Love",
+      "poster": "https://image.tmdb.org/t/p/w500/mKVSozOhy9to5AFfIX1tsDDFrFK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+      "description": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "year": "2026",
+      "releaseDate": "2026-02-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 6.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1508564/watch"
+    },
+    {
+      "id": 786567,
+      "title": "Gandhi Talks",
+      "poster": "https://image.tmdb.org/t/p/w500/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4Cqad6ZpWJRhBumGE1QwHs9pVuB.jpg",
+      "description": "A silent black comedy, about the monetary needs of a character & how it impacts the others. A young, unemployed graduate Mahadev’s struggle to land a job through any means possible and crosses paths with a businessman and petty thief. A subject wherein silence speaks much louder than words. Although a work of fiction by the writer, all the characters in the film are sketched out to seem very real and relatable ensuring an enriching journey as well a laugh riot as the cat and mouse guffaws amongst them unfold. Gandhi Talks aims at telling a story by switching off the device of dialogue, which is not only scary but also interesting and challenging.",
+      "year": "2026",
+      "releaseDate": "2026-01-30",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 7.3,
+      "officialUrl": "https://www.themoviedb.org/movie/786567/watch"
+    },
+    {
+      "id": 954445,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "poster": "https://image.tmdb.org/t/p/w500/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iipz8h0FT6pKI29A6DfRunYuLok.jpg",
+      "description": "Caught between family duty and romantic love, a young man faces an impossible choice.",
+      "year": "2026",
+      "releaseDate": "2026-10-01",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "rating": 4,
+      "officialUrl": "https://www.themoviedb.org/movie/954445/watch"
+    },
+    {
+      "id": 1623927,
+      "title": "Granny",
+      "poster": "https://image.tmdb.org/t/p/w500/eaeKmjzKOKFOGmXOoURrVsLncqF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fKusVXla3cZ2JM40vlYJT86ft2D.jpg",
+      "description": "Granny is an upcoming film directed by Vijaya Kumara, starring Vadivukkarasi, Dhileepan, Singampuli, Gaja Raja, Ananthu Nag, and Aparna in prominent roles.",
+      "year": "2026",
+      "releaseDate": "2026-01-30",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Horror"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1623927/watch"
+    },
+    {
+      "id": 1518247,
+      "title": "Happy Raj",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "description": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "year": "2026",
+      "releaseDate": "2026-03-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 5.7,
+      "officialUrl": "https://www.themoviedb.org/movie/1518247/watch"
+    },
+    {
+      "id": 1728047,
+      "title": "Delivery Boy",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "description": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "year": "2026",
+      "releaseDate": "2026-10-23",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1728047/watch"
+    },
+    {
+      "id": 1524468,
+      "title": "Vadam",
+      "poster": "https://image.tmdb.org/t/p/w500/79kxXKaBAWjt7GbtkAVT9CqB0Hm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ei5kPCWaVZKD2BB0pH9yehBxYWP.jpg",
+      "description": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
+      "year": "2026",
+      "releaseDate": "2026-03-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1524468/watch"
+    },
+    {
+      "id": 1556783,
+      "title": "TN 2026",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hlTs5C7zQ7TrH7REWOkSXzi67p7.jpg",
+      "description": "Set in Pollachi, the story follows a powerful landlord, Sivalingam Mandradiyar, who becomes obsessed with a rising actor, Kukanth Kumar, believing he is the next M.G.R. He pours his wealth into shaping the actor's career and political future. But as ambition and fame grow, so does the risk of downfall. Will it lead to power or ruin?",
+      "year": "2026",
+      "releaseDate": "2026-04-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1556783/watch"
+    },
+    {
+      "id": 1740942,
+      "title": "Photographer",
+      "poster": "https://image.tmdb.org/t/p/w500/2viJLcdWykkcagEfHpGZupbZiq4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g9I0qwd2dDPzs4yqilzb9IQy7UH.jpg",
+      "description": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever.",
+      "year": "2026",
+      "releaseDate": "2026-08-07",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1740942/watch"
+    },
+    {
+      "id": 1544326,
+      "title": "Nooru Sami",
+      "poster": "https://image.tmdb.org/t/p/w500/1dKmZB9KVSOA6mq6Oa2t6HYd8E1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bRhPcbtPfnrfJPllQtYY7SWoLbu.jpg",
+      "description": "Selvi, a widowed mother, devotes her life to raising her two sons in a conservative village. Years later, unfulfilled life comes back into focus, challenging deep-rooted traditions. As family and society strongly oppose change, Selvi must choose between societal expectations and her own happiness.",
+      "year": "2026",
+      "releaseDate": "2026-06-19",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1544326/watch"
+    },
+    {
+      "id": 1590380,
+      "title": "Ram and Leela",
+      "poster": "https://image.tmdb.org/t/p/w500/j1X0t57PguWBcaa8LAOaAHGyjcK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w0hg42XRWiaWlGPvQI8Defwn5En.jpg",
+      "description": "A repeatedly unlucky man finally finds the woman of his dreams, only for an unexpected twist to challenge his understanding of love and commitment.",
+      "year": "2026",
+      "releaseDate": "2026-08-21",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 5,
+      "officialUrl": "https://www.themoviedb.org/movie/1590380/watch"
+    },
+    {
+      "id": 1755757,
+      "title": "Poovellaam Kettuppaar",
+      "poster": "https://image.tmdb.org/t/p/w500/wLjlGUQp6xdnlcfdPQ9ZOqqLnmD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cTKTllmbnv0K86kQHKkSdL9c5ym.jpg",
+      "description": "A research project pulls Sathiya and Kartigeyan into the isolated world of Maaran and Nathiya. As the past meets the present, one conversation is all it takes to change their lives forever.",
+      "year": "2026",
+      "releaseDate": "2026-08-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1755757/watch"
+    },
+    {
+      "id": 1112564,
+      "title": "Vaa Vaathiyaar",
+      "poster": "https://image.tmdb.org/t/p/w500/hb1YWskm1H2YwNj2KF2BGWgLA58.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qPNIwdR3y965KMsiweyuXdjDRXR.jpg",
+      "description": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+      "year": "2026",
+      "releaseDate": "2026-01-14",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "rating": 4.8,
+      "officialUrl": "https://www.themoviedb.org/movie/1112564/watch"
+    },
+    {
+      "id": 1655049,
+      "title": "Habeebi",
+      "poster": "https://image.tmdb.org/t/p/w500/kHU73XK0DHhphgo7U6MUQz8ADYv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hdQRhWMUg6cKSWcTCCyqWXcv8Ly.jpg",
+      "description": "Follows a boy and girl in a Muslim neighbourhood in southern Tamil Nadu whose romance divides their community.",
+      "year": "2026",
+      "releaseDate": "2026-06-12",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1655049/watch"
+    },
+    {
+      "id": 1568600,
+      "title": "Kadhal Reset Repeat",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hCSWwwBZUkq44ZjmsePhXmgPPiz.jpg",
+      "description": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "year": "2026",
+      "releaseDate": "2026-03-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1568600/watch"
+    },
+    {
+      "id": 1629469,
+      "title": "Sweety Naughty Crazy",
+      "poster": "https://image.tmdb.org/t/p/w500/8TUdDDC26HQWNS7SdrYHSzyfYgZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r0FiGLP1dbD9gBnCFt7UOpQqAfe.jpg",
+      "description": "Shiva, a charming college student juggling three different relationships. As he tries to keep them secret, love, lust, and chaos collide in a playful mix of adult humor, romance, and comedy.",
+      "year": "2026",
+      "releaseDate": "2026-02-13",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 5,
+      "officialUrl": "https://www.themoviedb.org/movie/1629469/watch"
+    },
+    {
+      "id": 1607634,
+      "title": "Anbe Diana",
+      "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+      "description": "Set in Perambur, a local Telugu youth falls for an Anglo-Indian girl, sparking a chaotic and humorous clash of cultures between their families.",
+      "year": "2026",
+      "releaseDate": "2026-07-17",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.1,
+      "officialUrl": "https://www.themoviedb.org/movie/1607634/watch"
+    },
+    {
+      "id": 1506633,
+      "title": "Satan - The Dark",
+      "poster": "https://image.tmdb.org/t/p/w500/uFjy89xe1Us6iRfdsKAn05Y1XGX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zwZ5f2jJvMaFf59oX6jwKFQd8FW.jpg",
+      "description": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
+      "year": "2026",
+      "releaseDate": "2026-03-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 7,
+      "officialUrl": "https://www.themoviedb.org/movie/1506633/watch"
+    },
+    {
+      "id": 1575753,
+      "title": "Battle",
+      "poster": "https://image.tmdb.org/t/p/w500/p1y1xAQFmEwdb2TiJ0ja6XAbE0v.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tXjuhV9RX9o7gkUzc5aNn4l6h0d.jpg",
+      "description": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
+      "year": "2026",
+      "releaseDate": "2026-04-24",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1575753/watch"
+    },
+    {
+      "id": 1617089,
+      "title": "Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7QnZlrJBYm2xBWPuSIPV08Dj93M.jpg",
+      "description": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
+      "year": "2026",
+      "releaseDate": "2026-03-13",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1617089/watch"
+    },
+    {
+      "id": 1737178,
+      "title": "Ego Raman",
+      "poster": "https://image.tmdb.org/t/p/w500/rFKCzvt5uw7wjG9ZXaUXL8MMq1Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7sILP5U85V5OTzX3BsRsiy8WNyJ.jpg",
+      "description": "Follows the toxic relationship between a prospective civil servant and a conceited school principal, which intensifies when a Yamaha motorbike enters the narrative.",
+      "year": "2026",
+      "releaseDate": "2026-05-29",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1737178/watch"
+    },
+    {
+      "id": 1628578,
+      "title": "Yogida",
+      "poster": "https://image.tmdb.org/t/p/w500/qG8xiHPIJJqdH9WKpZXaeOaiouk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yf9ntvHqZFgwB79V6DhXNHbuiKj.jpg",
+      "description": "It is story about a Honest and straightforward lady police Inspector Yogi works in Coimbatore, where she proves a textile mill owner’s “suicide” is actually a murder by his own son, leading to her transfer to the punishment area Vyasarpadi in North Chennai. There she confronts ruthless don Shekar Babu, who controls the area and its police through fear, power, and political influence, but Yogi refuses to bow down and begins taking action against his network.",
+      "year": "2026",
+      "releaseDate": "2026-02-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1628578/watch"
+    },
+    {
+      "id": 1710563,
+      "title": "Nizhal",
+      "poster": "https://image.tmdb.org/t/p/w500/sqdnjFOemwhDe6Jeu9K51J8E5RE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zCI2BleOTvbqqEj9Za7Wr8tDC2q.jpg",
+      "description": "NIZHAL follows twin sisters Ramya and Saranya. Saranya is a trainee doctor, and Ramya helps their vendor parents. Tragedy strikes when Saranya’s friend Lakshmi is brutally murdered in the hospital lab by Guna, the CEO's son, and his gang. Ramya witnesses the crime and narrowly survives a deadly attack by them. Driven by fury, Saranya seeks vengeance and puts the killers on their deathbeds. Ironically, her lover Raghu takes charge as the sub-inspector for this very case. When Raghu uncovers the truth, a gripping battle begins between law, love, and ultimate justice.",
+      "year": "2026",
+      "releaseDate": "2026-06-12",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1710563/watch"
+    },
+    {
+      "id": 1730982,
+      "title": "Dark Face",
+      "poster": "https://image.tmdb.org/t/p/w500/yDC9z6tquPS0Nc4JZaHNjSpGon.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lZVAQNOYCGyr3YfD3LmulMjaIdf.jpg",
+      "description": "When a man is sentenced to death for rape and hailed as justice served, the world moves on satisfied. But on the eve of his execution, a final meeting with his lawyer shatters that certainty. He may be innocent.  Refusing to let the truth die with him, the lawyer reopens the case and what begins as a single thread quickly unravels into something far darker. Behind the crime, the conviction, and a suspicious suicide lies a carefully concealed conspiracy. The deeper the investigation goes, the more dangerous the question becomes: Who is really guilty?",
+      "year": "2026",
+      "releaseDate": "2026-04-26",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1730982/watch"
+    },
+    {
+      "id": 1631856,
+      "title": "Oh Butterfly!",
+      "poster": "https://image.tmdb.org/t/p/w500/w0g0bhCuxq0VSMVgER9LLhQnil1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1wD0i0u7HMrNd3rH6sYvENxj10P.jpg",
+      "description": "When a series of unfortunate coincidences involving a woman, her husband and her ex, culminates in a shocking death, her long-lost sister returns to redeem her.",
+      "year": "2026",
+      "releaseDate": "2026-03-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1631856/watch"
+    },
+    {
+      "id": 1764201,
+      "title": "Yen Ennai Edho Seidhai",
+      "poster": "https://image.tmdb.org/t/p/w500/A5B8tt7aM7SbAKs7I9jRunaAR3Q.jpg",
+      "backdrop": "",
+      "description": "Broken young man trapped in emotional darkness finds unexpected healing when Madhu's love guides him from self destruction toward hope, purpose, and light.",
+      "year": "2026",
+      "releaseDate": "2026-09-04",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1764201/watch"
+    },
+    {
+      "id": 1504848,
+      "title": "Leader",
+      "poster": "https://image.tmdb.org/t/p/w500/eitNeP5lMT67piVVA8h31lb5keN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sa3TBhb5S4ppfDcUuiAq2MYKra2.jpg",
+      "description": "An ordinary man becomes trapped between warring criminal factions and law enforcement, forcing him to use his wits to survive while shielding his loved ones from the deadly crossfire that threatens to consume them all.",
+      "year": "2026",
+      "releaseDate": "2026-04-03",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 5.2,
+      "officialUrl": "https://www.themoviedb.org/movie/1504848/watch"
+    },
+    {
+      "id": 1607661,
+      "title": "Aazhi",
+      "poster": "https://image.tmdb.org/t/p/w500/1SQ0PL6bf0IHdf2xV8sIiMbc8Wq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tYCUdUBtVWLKj7MghRFkUi3ZDRY.jpg",
+      "description": "Mukhila's Father Murthy comes to know about Arul and Mukhilas love affair. Murthy, who works as a boat mechanic, kidnaps Arul in a boat and beats him up. He plans to kill Arul so that he will not fall in love with his daughter. When the boat breaks down in the sea, Murthy, foot stuck in the motor and is both of them survived the rainstorm or not.",
+      "year": "2026",
+      "releaseDate": "2026-02-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1607661/watch"
+    },
+    {
+      "id": 1402181,
+      "title": "Scene",
+      "poster": "https://image.tmdb.org/t/p/w500/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lxnw0JBKCez7htSmjeoAx8rYk7T.jpg",
+      "description": "No description available.",
+      "year": "2026",
+      "releaseDate": "2026-11-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1402181/watch"
+    },
+    {
+      "id": 1596008,
+      "title": "Con City",
+      "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+      "description": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+      "year": "2026",
+      "releaseDate": "2026-06-26",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 5.4,
+      "officialUrl": "https://www.themoviedb.org/movie/1596008/watch"
+    },
+    {
+      "id": 1652180,
+      "title": "Neelira",
+      "poster": "https://image.tmdb.org/t/p/w500/a8HvmTThFuE4lbQ8zCdm7tySgpU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d7RMUGOVTxYhm3SaZITZ5YYpFNr.jpg",
+      "description": "A wedding eve in 1988 Sri Lanka turns into a hostage standoff when Indian Army soldiers occupy a family's home overnight.",
+      "year": "2026",
+      "releaseDate": "2026-04-03",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "War"
+      ],
+      "rating": 8,
+      "officialUrl": "https://www.themoviedb.org/movie/1652180/watch"
+    },
+    {
+      "id": 1752883,
+      "title": "Kitti",
+      "poster": "https://image.tmdb.org/t/p/w500/9TOunLTr9xm3ZjSfdM7pWdxpdcJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2o1ViPlWJfx33tWXbs7ng9EBOmd.jpg",
+      "description": "A psychological thriller that explores the fragile boundaries between reality, fear, and the human mind. When an unexpected incident disrupts a seemingly ordinary life, the protagonist is drawn into a disturbing chain of events where nothing is what it appears to be. As reality begins to blur, hidden truths slowly emerge, forcing him to confront his deepest fears and question his own perception of what is real.",
+      "year": "2026",
+      "releaseDate": "2026-10-09",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1752883/watch"
+    },
+    {
+      "id": 973190,
+      "title": "Mustafa Mustafa",
+      "poster": "https://image.tmdb.org/t/p/w500/43f2rZ5GE016leKWIntH3k9CXNN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bo2cLoPA7snPvoXtnmp6DtV5GMd.jpg",
+      "description": "A viral social media clip ruins a man's reputation. Despite his claims it is fake, chaos ensues through white lies and misunderstandings, testing the trust of his friends and his lover.",
+      "year": "2026",
+      "releaseDate": "2026-03-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/973190/watch"
+    },
+    {
+      "id": 1507233,
+      "title": "Manithan Deivamagalam",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kfPexXh3tp3tGABSo9SBImvm0dO.jpg",
+      "description": "A hardworking villager and his wife hope to build a better life after starting a small roadside eatery with borrowed money. But when he dares to question local power and demand basic improvements for his neglected village, he finds himself caught in a growing conflict involving debt, politics, and the fight for dignity.",
+      "year": "2026",
+      "releaseDate": "2026-04-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1507233/watch"
+    },
+    {
+      "id": 1715800,
+      "title": "Dark Giant",
+      "poster": "https://image.tmdb.org/t/p/w500/jKeyjIdRacMd3iDvSVhdRtF4GJY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6iJo5yTh2lEqOWL8TZkpKvH8ZSO.jpg",
+      "description": "Dark Giant is a Supernatural Horror and Psychological Family Drama. It Explores How Greed, Guilt, and Generational Trauma Can Manifest as a Literal Curse, Destroying a Family From the Inside Out",
+      "year": "2026",
+      "releaseDate": "2026-06-19",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1715800/watch"
+    },
+    {
+      "id": 1507097,
+      "title": "Sattendru Maarudhu Vaanilai",
+      "poster": "https://image.tmdb.org/t/p/w500/tTgiNXkrg9LS6Qjvrnksev7ztIo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wWxrb1dsjSXj0LfwWCHdzljtK7J.jpg",
+      "description": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+      "year": "2026",
+      "releaseDate": "2026-05-15",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1507097/watch"
+    },
+    {
+      "id": 1627911,
+      "title": "Kadhal Kadhai Sollava",
+      "poster": "https://image.tmdb.org/t/p/w500/5bnBIP6brIVCOgQ6D4lIQ6CbUvs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6zwziT2NgTXDFe8BsmvJGlYonsZ.jpg",
+      "description": "This story tells about \"Micheal And Shreya\" who participate in the Program , which Actor Vijaysethupathi Conducts through FM \"Kadhal Kadhai Sollava\"",
+      "year": "2026",
+      "releaseDate": "2026-02-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1627911/watch"
+    },
+    {
+      "id": 1505305,
+      "title": "Immortal",
+      "poster": "https://image.tmdb.org/t/p/w500/8Ev68TZqunJ31uvn7cbchALeDkn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4akmXHqanJ2r7efr9tyJT08oFMm.jpg",
+      "description": "An unsuspecting man finds himself at the center of a series of mysterious deaths, forcing him to confront a truth that could cost him everything.",
+      "year": "2026",
+      "releaseDate": "2026-09-04",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Thriller",
+        "Horror",
+        "Fantasy"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1505305/watch"
+    },
+    {
+      "id": 1646090,
+      "title": "Vowels",
+      "poster": "https://image.tmdb.org/t/p/w500/BqHup9TCZtCJfHx5AmYNuOjMCM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wEdCISkrdAdTgVz8obeqhMS4AIU.jpg",
+      "description": "A romantic anthology of five love stories exploring different dimensions: Attraction, Emotion, Intimacy, Obsession, and Unconditional love, each reflecting diverse emotional experiences.",
+      "year": "2026",
+      "releaseDate": "2026-03-13",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1646090/watch"
+    },
+    {
+      "id": 1445033,
+      "title": "Kaalidas 2",
+      "poster": "https://image.tmdb.org/t/p/w500/ApDBzqTF6aroJV7IuMgRwrCET2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sZHwDAtV2auwAjPD2ab4d7wRxkX.jpg",
+      "description": "A dedicated Crime Branch officer, Kaalidas, investigates the disappearance of a child in an apartment complex. What begins as a routine missing-person case quickly turns dark when the child and a dog are found murdered. As more mysterious killings occur in the same building, Kaalidas uncovers hidden secrets among the residents and races against time to stop a killer before more live",
+      "year": "2026",
+      "releaseDate": "2026-04-03",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "rating": 6,
+      "officialUrl": "https://www.themoviedb.org/movie/1445033/watch"
+    },
+    {
+      "id": 965483,
+      "title": "Parasakthi",
+      "poster": "https://image.tmdb.org/t/p/w500/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yMgpIzfqHZXbEN8ar9EAHJvdYJj.jpg",
+      "description": "In a time of civil disobedience in the erstwhile Madras state, a ruthless intelligent officer turns up with a duty to track down rebels. Chezhian and his brother Chinndurai are of different personalities, one a hardworking fireman, the other a rebel. A deadly game of cat and mouse ensues as Chezhian is forced to abandon his peaceful ways to protect his people and takes on the mighty forces, culminating in a fierce battle for justice.",
+      "year": "2026",
+      "releaseDate": "2026-01-09",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "History",
+        "Drama",
+        "Action",
+        "Romance"
+      ],
+      "rating": 6.1,
+      "officialUrl": "https://www.themoviedb.org/movie/965483/watch"
+    },
+    {
+      "id": 1758603,
+      "title": "BeeP",
+      "poster": "https://image.tmdb.org/t/p/w500/kZq0kfFErlzl30J5NlfnjxwH3ni.jpg",
+      "backdrop": "",
+      "description": "BeeP is a mind-bending crime-fantasy about Ilandevan, a young man who can step inside photographs and uncover the thoughts hidden behind them. But when a life-changing event leaves his extraordinary ability useless, he must find another way to uncover the truth while two seemingly unrelated worlds of college dreams, drugs and murder collide.",
+      "year": "2026",
+      "releaseDate": "2026-09-18",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1758603/watch"
+    },
+    {
+      "id": 1579405,
+      "title": "Love Oh Love",
+      "poster": "https://image.tmdb.org/t/p/w500/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fEUJSGa6MZFEl32Gx83UXwEy98L.jpg",
+      "description": "A couple is in love. One partner's excessive spending pushes the other into debt. When the burdened partner decides to seek a divorce, the other files a police complaint through the leader of a women's association. As they begin living together, they gradually understand each other's struggles. Eventually, they reconcile and choose to continue their life together.",
+      "year": "2026",
+      "releaseDate": "2026-07-10",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 8,
+      "officialUrl": "https://www.themoviedb.org/movie/1579405/watch"
+    },
+    {
+      "id": 1738076,
+      "title": "Andharan",
+      "poster": "https://image.tmdb.org/t/p/w500/pwyKYojrmnFOYDjaJnfGu4Hiv9j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kaTGifoQW0qpR2ryK9Yy0iGoQgF.jpg",
+      "description": "Karthika's fiancés mysteriously die before marriage. Officer Chezhiyan investigates the deaths and discovers dark secrets from her past, revealing the hidden forces haunting her life as truth and fear collide.",
+      "year": "2026",
+      "releaseDate": "2026-06-26",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1738076/watch"
+    },
+    {
+      "id": 1745623,
+      "title": "Iron Farm",
+      "poster": "https://image.tmdb.org/t/p/w500/rXGpAOounp60Z64mLILtnl4UhrC.jpg",
+      "backdrop": "",
+      "description": "Police officers Rahim(Irfan Zaini) and Easwaran(Logavarman) begin investigating the disappearance of 15-year-old student in the town of Sri Tebong. As the investigation unfolds, they uncover hidden secrets, unexpected connections, and dark truths buried within the community and the mysteries hidden behind ordinary lives.",
+      "year": "2026",
+      "releaseDate": "2026-08-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1745623/watch"
+    },
+    {
+      "id": 1536911,
+      "title": "Carmeni Selvam",
+      "poster": "https://image.tmdb.org/t/p/w500/1VjWJjNt5jefOJAnxJEvC7B7ulV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hkxyILpj5Gws3Ak8lOLuviZW8ei.jpg",
+      "description": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+      "year": "2026",
+      "releaseDate": "2026-04-03",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1536911/watch"
+    },
+    {
+      "id": 1766110,
+      "title": "Pulavar",
+      "poster": "",
+      "backdrop": "",
+      "description": "No description available.",
+      "year": "2026",
+      "releaseDate": "2026-09-25",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1766110/watch"
+    },
+    {
+      "id": 1563192,
+      "title": "Lenin Pandiyan",
+      "poster": "https://image.tmdb.org/t/p/w500/qhvvef3ayMfnuA4wQcPscC8em0A.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8nCqIMHXSbO1uvxizndwMRxcsw9.jpg",
+      "description": "Set alongside on the riverbanks of Maanamadurai in the Sivagangai district, the premise is about a very gullible, innocent old couple in their late 60s, 70s who inadvertently get intertwined in the political lobby of sand mining which is currently a major issue in the local district. By the orders from a steadfast judge, to ensure protection & safeguard them from the vindictive political system, they nominate a weakest unassuming rookie police constable .The emotional bond between the rookie policeman and the couple & how they avenge the entrenched political system with fortuitous incidents as a new found allies forms the rest of the narrative.",
+      "year": "2026",
+      "releaseDate": "2026-09-25",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Romance"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1563192/watch"
+    },
+    {
+      "id": 1540824,
+      "title": "Sathyavan Savithiri",
+      "poster": "https://image.tmdb.org/t/p/w500/6CTZmOW9YrHxxaYjK56rB8DvefR.jpg",
+      "backdrop": "",
+      "description": "No description available.",
+      "year": "2026",
+      "releaseDate": "2026-11-20",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1540824/watch"
+    },
+    {
+      "id": 1568076,
+      "title": "Mayilaa",
+      "poster": "https://image.tmdb.org/t/p/w500/57fdtOf3g6yxfSB322pTMN9Ke0t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bHSVmaKUBWw2uyMv4nkbhm6jAub.jpg",
+      "description": "Mayilaa embarks on a journey as a travelling salesperson in Southern India to fulfil her expensive obligations. The only problem: she doesn’t know how to sell. A sharp yet heartwarming tale of a mother-daughter duo finding their feet on the road.",
+      "year": "2026",
+      "releaseDate": "2026-01-31",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1568076/watch"
+    },
+    {
+      "id": 1434102,
+      "title": "Heartin",
+      "poster": "https://image.tmdb.org/t/p/w500/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ufVCGoqEHOCahpXwDguGIq8CxAP.jpg",
+      "description": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+      "year": "2026",
+      "releaseDate": "2026-06-26",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 5.7,
+      "officialUrl": "https://www.themoviedb.org/movie/1434102/watch"
+    },
+    {
+      "id": 1627642,
+      "title": "Thiraivi",
+      "poster": "https://image.tmdb.org/t/p/w500/1GKLS6uH0erNZYvZP0pTVXDNxYL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6fM3ybUtRttE4IwPEUByB3Pbr4w.jpg",
+      "description": "A woman is talking to a man about a plan. The man says that he needs to kill someone, but the woman says that he should not do it. The woman is shocked and does not know what to do. Then, the woman was bound and gagged by the man",
+      "year": "2026",
+      "releaseDate": "2026-01-30",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1627642/watch"
+    },
+    {
+      "id": 1539987,
+      "title": "Pookie",
+      "poster": "https://image.tmdb.org/t/p/w500/6b03JRKA8rSmSq8VTh3ssXSpBfr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ltgNAwnue0o7736HpG2IoqqYWLs.jpg",
+      "description": "He struggles to tell her he wants to separate. When he finally does, she shares the same thoughts. Suddenly realizing he doesn't want to lose her, they reconcile though both still privately consider breaking up.",
+      "year": "2026",
+      "releaseDate": "2026-02-13",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1539987/watch"
+    },
+    {
+      "id": 1779095,
+      "title": "Dark Syndicate",
+      "poster": "https://image.tmdb.org/t/p/w500/vfo6pYkAvkg1C5OHDmDn7n5z3Ms.jpg",
+      "backdrop": "",
+      "description": "When an Army officer is assassinated in Chennai, her murder triggers a race between a cyber-forensics investigator and her husband, a special forces Major, as they uncover a global bioterror conspiracy orchestrated by a ruthless syndicate.",
+      "year": "2026",
+      "releaseDate": "2026-09-24",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1779095/watch"
+    },
+    {
+      "id": 1686999,
+      "title": "Enna Vilai",
+      "poster": "https://image.tmdb.org/t/p/w500/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg",
+      "backdrop": "",
+      "description": "A humble fisherman from Rameswaram lives a quiet life with his family until he finds a gold pendant washed ashore. What initially seems like a blessing soon turns into a nightmare when false accusations threaten his peace and dignity, forcing him to stand up against a powerful system.",
+      "year": "2026",
+      "releaseDate": "2026-09-17",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1686999/watch"
+    },
+    {
+      "id": 1642665,
+      "title": "Anthony",
+      "poster": "https://image.tmdb.org/t/p/w500/iSTE5UGlQ5YlPiMdsuCOAnChY9X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qNEwPLOkD6VbNh8iUS4kRzNSZF6.jpg",
+      "description": "Set along the coastal shores of Jaffna, the story follows a fisherman and his family  whose lives are inseparably tied to the sea. As he struggles to balance his responsibilities toward his profession and his family, a tender love story unfolds, shaping his choices and testing his values. Daily life within the fishing community  its hardships, traditions, and unspoken bonds, forms the backdrop of the narrative. When personal desires begin to clash with family expectations, the protagonist is forced to confront sacrifice, loyalty, and the true meaning of love. Through moments of romance, conflict, and emotional depth, the film reveals the  strength of family ties and the resilience of a community that survives by trusting the sea and each other.",
+      "year": "2026",
+      "releaseDate": "2026-03-13",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1642665/watch"
+    },
+    {
+      "id": 1593339,
+      "title": "Yaarra Antha Paiyan Naanthan Antha Paiyan",
+      "poster": "https://image.tmdb.org/t/p/w500/dfyjU8XdjWzhVYGEhMYR16wrxu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ajPkRtIi64sDWXQ5VE6vy2dzO4E.jpg",
+      "description": "Vijay and Shalini’s marriage is crumbling under constant misunderstandings. In the same city, Deepika loses her alcoholic husband Manikandan and is left drowning in loneliness.  Seeking comfort, Deepika and Vijay cross the line and fall into a secret affair.But danger strikes when Sukumar, a corrupt sub-inspector obsessed with Deepika, begins  hunting her for his own desires. As guilt closes in on Vijay and suspicion rises for Shalini, Deepika is trapped between a forbidden relationship and a ruthless predator.  Will Shalini discover the truth? And can Deepika escape Sukumar’s grip before everything collapses?",
+      "year": "2026",
+      "releaseDate": "2026-03-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1593339/watch"
+    },
+    {
+      "id": 1641315,
+      "title": "Fourth Floor",
+      "poster": "https://image.tmdb.org/t/p/w500/zWvALKGFD4X8LXVvLIvwIeUfXvC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jIOVaEvBcQL7h6NtQk9PfI5hc4D.jpg",
+      "description": "Drawn Back to Chennai by an Unexpected Call From His Former Lover, Dheeren Travels From Mumbai and Checks Into a Secluded Office Guest House. Soon After His Arrival, Disturbing and Inexplicable Events Begin to Unfold Within Its Walls. Night After Night, Dheeren is Plagued by Vivid Dreams—fragments of Memories That Eerily Mirror His Own Past and Unresolved Relationship.  As the Line Between Dreams and Reality Begins to Blur, Dheeren Realizes These Visions Are Not Random. Each Dream is a Clue, Slowly Pulling Him Toward a Buried Truth Connected to His Ex-lover’s Fate. Trapped Between Guilt, Fear, and the Supernatural, Dheeren Must Confront His Past to Uncover What Truly Happened to Her—before the Guest House Claims Him as Its Next Secret.",
+      "year": "2026",
+      "releaseDate": "2026-02-27",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1641315/watch"
+    },
+    {
+      "id": 1306500,
+      "title": "Moon Walk",
+      "poster": "https://image.tmdb.org/t/p/w500/r6tHsCtTnLJ7aK6B8yl25jY49Jq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o7HQhcFyEsl7CItCZw6T9j9iWAf.jpg",
+      "description": "Moonwalk is a family comedy entertainer starring Prabhudeva, Yogi Babu, Aju Varghese, and Arjun Ashokan. Featuring music by A. R. Rahman, the film marks the high-profile reunion of Rahman and Prabhudeva after 30 years. Moonwalk also serves as Rahman’s acting debut. Designed as a wholesome theatrical experience, the film combines high-energy dance, music, and humor for families, children and audiences of all ages.",
+      "year": "2026",
+      "releaseDate": "2026-11-06",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1306500/watch"
+    },
+    {
+      "id": 1648738,
+      "title": "LipLock",
+      "poster": "",
+      "backdrop": "",
+      "description": "Liplock explores modern relationships, misunderstandings, and second chances.",
+      "year": "2026",
+      "releaseDate": "2026-02-14",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1648738/watch"
+    },
+    {
+      "id": 1595203,
+      "title": "Arivaan",
+      "poster": "https://image.tmdb.org/t/p/w500/ag9CHUq5KNw4Di19WRQqfAKsqOq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nlT5ciXmeaAHddrXxKaKEfIGEOU.jpg",
+      "description": "Surya an honest yet hot tempered COP Known for his encounter killings is transferred to Neyveli after another controversial case soon after his arrival. A murder involving a woman named Vinisha shakes the town as Suryadives into the case He must navigate between truth and deceit to protect both Love and Justice.",
+      "year": "2026",
+      "releaseDate": "2026-02-20",
+      "originalLanguage": "ta",
+      "language": "Tamil",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "rating": 0,
+      "officialUrl": "https://www.themoviedb.org/movie/1595203/watch"
     }
   ]
 }
